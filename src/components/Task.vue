@@ -25,4 +25,3 @@ const deleteTask = () => {
         </div>
     </div>
 </template>
-
