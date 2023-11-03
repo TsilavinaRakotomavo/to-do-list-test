@@ -105,9 +105,3 @@ const incompleteTaskCount = computed(() => tasks.value.filter((task) => !task.co
     </div>
   </div>
 </template>
-
-<style>
-body {
-  background-color: #7EB2DD;
-}
-</style>
